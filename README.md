@@ -1,0 +1,1 @@
+# Stock-Market-forecasting-Using-ARMIA-and-GARCH-Models
